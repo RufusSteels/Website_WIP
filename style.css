@@ -264,7 +264,7 @@ video.portfolio {
     }
 }
 
-@media (pointer:fine)
+@media (pointer:fine) {
     .pc-only {
         display:inline;
     }
