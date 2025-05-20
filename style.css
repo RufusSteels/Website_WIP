@@ -258,6 +258,10 @@ video.portfolio {
         object-fit: cover; 
         object-position:center;
     }
+
+    .pc-only {
+        display:none;
+    }
 }
 
 .cropped {
